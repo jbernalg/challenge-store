@@ -13,37 +13,37 @@
 
 ## Decripción del Proyecto
 
-El siguiente proyecto consiste en analizar las tiendas de la cadena ALURA propiedad del Sr. Juan, para encontrar aquella que debería ser vendida para iniciar un nuevo emprendimiento. Para ello se analizan lo siguiente puntos:
+El siguiente proyecto consiste en analizar las tiendas de la cadena ALURA propiedad del Sr. Juan, para encontrar aquella que debería ser vendida para iniciar un nuevo emprendimiento. Para ello se analizan los siguiente puntos:
 - Ingresos totales de la tienda.
-- Categorias de productos mas y menos vendidos.
+- Categorias de productos más y menos vendidos.
 - Calificaciones promedio de los clientes por tienda.
 - Productos más y menos vendidos.
-- Coste de envio promedio para cada tienda.
+- Coste de envío promedio para cada tienda.
 
 
 ## Esctructura del Proyecto
 
 El proyecto esta estructurado de la siguiente forma:
 
-1. Analisis de facturacion
+1. Análisis de facturación
 
 1.1 Ingreso total por tienda
 
-1.2 Ventas por categoria
+1.2 Ventas por categoría
 
-1.3 Calificacion promedio de la tienda
+1.3 Calificación promedio de la tienda
 
-1.4 Producto mas y meno vendido
+1.4 Producto más y menos vendido
 
-1.5 Envio promedio por tienda
+1.5 Envío promedio por tienda
 
 2. Visualizaciones
 
 2.1 ingreso neto por tienda
 
-2.2 Categorias mas vendidas
+2.2 Categorías más vendidas
 
-2.3 Costo promedio de envio por tienda
+2.3 Costo promedio de envío por tienda
 
 3. Informe final
 
