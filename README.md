@@ -57,7 +57,15 @@ El proyecto esta estructurado de la siguiente forma:
 
 ![costo promedio](https://github.com/user-attachments/assets/90280cb8-54e7-4184-8659-7e9ffe3ed811)
 
+## Tecnologías utilizadas
 
+- Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+
+## Autor
+[<img src="https://avatars.githubusercontent.com/u/99054174?v=4" width=115><br><sub>Jeinfferson Bernal</sub>](https://github.com/jbernalg)
 
 
   
